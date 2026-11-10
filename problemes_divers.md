@@ -1,0 +1,3 @@
+# le sexe des individus en colonne
+L'outil ne permet pas de régler le cas où plusieurs colonnes indiquent un dénombrement selon le sexe "Male", "Femelle", "Indéterminé"...
+
