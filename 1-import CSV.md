@@ -5,7 +5,7 @@ L'outil d'import demande à ce que le tableur importé le soit au format CSV sé
 
 ## Convertir un fichier Excel en CSV par Excel
 Excel permet d'exporter au format CSV. La manip est détaillée [ici](https://support.microsoft.com/fr-fr/excel/save-a-workbook-to-text-format-txt-or-csv).   
-Il faut choisir le format "CSV (séparateur : virgule)". Mais Excel ne permet pas d'exporter en UTF-8. 
+Il faut choisir le format "CSV (séparateur : point virgule)". Mais Excel ne permet pas d'exporter en UTF-8. 
 
 Il faut alors passer par le bloc-note de Windows pour convertir l'encodage du CSV en UTF-8.  
 Ou option recommandée : utiliser **Notepad++** en suivant [cette manip](https://www.nosyweb.fr/astuce-joomla/convertir-en-utf-8-avec-notepad-plus-plus.html) 
